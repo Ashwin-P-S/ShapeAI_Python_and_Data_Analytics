@@ -1,3 +1,3 @@
 # ShapeAI BootCamp Project
 ## Python and Data Analytics
-### Analysis of Survival Passengers of Titanic Ship 
+### Analysis in the  Survival of Passengers of the Titanic Ship 
